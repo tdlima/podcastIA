@@ -1,0 +1,4 @@
+MidJourney：
+
+| prompt |                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | crie um podcaster, estilo nerd, com fone, microfone, em um estúdio com balões flutuantes estilo nuvem e em cada balão escreva as seguintes palavras: Python, SQL, AWS, DW, ETL, Pipeline. Não repita nenhuma palavra. A frente da bancada escreva o nome DataQuest. A imagem deve ser de qualidade, tamanho 1:1, com boa iluminação e ótimas cores.|
